@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="921094" started-at="2019-08-13T11:56:21Z" finished-at="2019-08-13T12:11:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="921094" started-at="2019-08-13T11:56:21Z" finished-at="2019-08-13T12:11:42Z">
+      <class name="tests.CukesRunnerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="setUp" is-config="true" duration-ms="4743" started-at="2019-08-13T06:56:16Z" finished-at="2019-08-13T06:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-08-13T06:56:21Z" finished-at="2019-08-13T06:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="runCukes" duration-ms="917920" started-at="2019-08-13T06:56:21Z" finished-at="2019-08-13T07:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+        <test-method status="PASS" signature="writeExtentReport()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="writeExtentReport" is-config="true" duration-ms="116" started-at="2019-08-13T07:11:39Z" finished-at="2019-08-13T07:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeExtentReport -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="afterTest" is-config="true" duration-ms="3020" started-at="2019-08-13T07:11:39Z" finished-at="2019-08-13T07:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.CukesRunnerTest@3cef309d]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-13T07:11:42Z" finished-at="2019-08-13T07:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CukesRunnerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
